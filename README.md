@@ -1,2 +1,2 @@
 # professor-eliseu-batista-santos
-Aulas da Disciplina de Programacao
+Aulas das Disciplinas de Programação, do Curso Técnico em Informática do Colégio Estadual Dom João Becker
